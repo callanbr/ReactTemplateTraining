@@ -13,4 +13,9 @@
 - Components later?
 
 
+## webpack fix
+- Move webpack folder to the root
+- Add config to start script
+- Add missing dependency "babel-loader"
+
 
